@@ -8,3 +8,5 @@ month = int(input("Введите месяц: "))
 print(calendar.month(year,month))
 
 print("Пока")
+
+print("END")
